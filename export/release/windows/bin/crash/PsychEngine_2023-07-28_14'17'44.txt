@@ -1,0 +1,13 @@
+states/FreeplayState.hx (line 454)
+states/FreeplayState.hx (line 266)
+flixel/FlxState.hx (line 220)
+flixel/FlxGame.hx (line 752)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 556)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: Null Object Reference
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng
